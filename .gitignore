@@ -1,0 +1,9 @@
+# Ignore data sources
+*.csv
+*.xls
+*.xlsx
+
+# Ignore settings/history files
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
